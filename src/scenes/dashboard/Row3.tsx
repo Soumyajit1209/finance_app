@@ -198,10 +198,7 @@ const Row3 = () => {
           ></Box>
         </Box>
         <Typography margin="0 1rem" variant="h6">
-          Orci aliquam enim vel diam. Venenatis euismod id donec mus lorem etiam
-          ullamcorper odio sed. Ipsum non sed gravida etiam urna egestas
-          molestie volutpat et. Malesuada quis pretium aliquet lacinia ornare
-          sed. In volutpat nullam at est id cum pulvinar nunc.
+        Start by creating a budget to track your income and expenses. Prioritize saving at least 20% of your earnings and build an emergency fund covering 3-6 months of expenses. Invest early to leverage the power of compounding, focusing on diversified portfolios like index funds.
         </Typography>
       </DashboardBox>
     </>

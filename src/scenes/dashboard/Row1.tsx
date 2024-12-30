@@ -199,7 +199,7 @@ const Row1 = () => {
       <DashboardBox gridArea="c">
         <BoxHeader
           title="Revenue Month by Month"
-          subtitle="graph representing the revenue month by month"
+          subtitle="Graph representing the revenue month by month"
           sideText="+4%"
         />
         <ResponsiveContainer width="100%" height="100%">
